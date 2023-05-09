@@ -1,6 +1,7 @@
 # React Quote Generator
 ~~~
-The React Quote Generator is a simple web application built with React and Vite that generates random quotes. It fetches a random quote from an API and displays it along with the author's name.
+The React Quote Generator is a simple web application built with React and Vite that generates random quotes. 
+It fetches a random quote from an API and displays it along with the author's name.
 ~~~
 
 ## Features
